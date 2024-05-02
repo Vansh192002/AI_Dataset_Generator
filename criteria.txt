@@ -1,0 +1,5 @@
+#This is a file which define the approach of the AI assistant to decide the "Quality of answer"
+# Define the points you want your answer to be, 
+#For EXAMPLE:
+- "Be more friendly, humourous or informal"
+- "Be more Professional, and give long detailed answers.
